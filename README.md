@@ -1,7 +1,7 @@
 # Hi, I'm Luis Halvorssen 👋
 
 - 💻 Cognitive Science student interested in entrepreneurship, AI, and sports, media, & entertainment.
-- 🚀 Building projects like [Daily Quote Generator](https://github.com/LHalvorssen/daily_quote_generator).
+- 🚀 Building projects like [Daily Quote Generator](https://github.com/LHalvorssen/daily_quote_generator) & [Mood Playlist Generator](https://github.com/LHalvorssen/Mood-Playlist-Generator).
 - 🌱 Currently learning Python, GitHub workflows, and software development.
 
 ## Projects
