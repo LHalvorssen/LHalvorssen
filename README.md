@@ -6,7 +6,7 @@
 
 ## Projects
 - [Daily Quote Generator](https://github.com/LHalvorssen/daily_quote_generator): A Python script to fetch inspirational quotes.
-- [Mood Playlist Generator](https://github.com/LHalvorssen/Mood-Playlist-Generator): A Python script that creates Spotify playlists based on your current mood
+- [Mood Playlist Generator](https://github.com/LHalvorssen/Mood-Playlist-Generator): A Python script to fetch Spotify playlists based on your current mood
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/luishalvorssen)
