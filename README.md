@@ -9,4 +9,4 @@
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/luishalvorssen)
-- [Portfolio Coming Soon...](https://yourportfolio.com)
+- Portfolio Coming Soon...
